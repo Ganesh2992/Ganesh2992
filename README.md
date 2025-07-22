@@ -56,7 +56,10 @@
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ganesh2992&theme=algolia&margin-w=20&no-frame=false)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh2992&theme=algolia&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+</p>
+
 
 <hr/>
 
