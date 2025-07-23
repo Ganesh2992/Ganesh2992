@@ -70,10 +70,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ganesh2992&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ganesh2992&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2992&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
