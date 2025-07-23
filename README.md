@@ -4,7 +4,7 @@
 <hr/>
 
 ### 👨‍💻 About Me
-- 🌱 Learning **ReactJS**  
+- 🌱 Learning **Something**  
 - 💬 Ask me about: **HTML, JavaScript, CSS**  
 - 📫 Reach me: [ganeshmangalamsinha@gmail.com](mailto:ganeshmangalamsinha@gmail.com)  
 
