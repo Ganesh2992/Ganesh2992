@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ganesh Mangalam Sinha</h1>
-<h3 align="center">🚀 A Passionate Engineer from India</h3>
+<h3 align="center">🚀 A Passionate Engineer</h3>
 
 <hr/>
 
