@@ -4,16 +4,16 @@
 <hr/>
 
 ### 👨‍💻 About Me
-- 🌱 Learning **Something**    
-- 📫 Reach me: [ganeshmangalamsinha@gmail.com](mailto:ganeshmangalamsinha@gmail.com)  
+- 🌱 Learning **New Technologies & Problem Solving**
+- 🎓 B.Tech (CSIT)
+- 📫 Reach me: [ganeshmangalamsinha@gmail.com](mailto:ganeshmangalamsinha@gmail.com)
 
 <hr/>
 
 ### 🔗 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/ganesh-mangalam-sinha-7987a6209" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -47,30 +47,27 @@
 
 <hr/>
 
-### 📈 Contribution Graph
-
-[![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh2992&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 Contribution Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh2992&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ganesh2992)
 
 <hr/>
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganesh2992&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh2992&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 <hr/>
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh2992&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh2992&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ganesh2992&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ganesh2992&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2992&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2992&layout=compact&theme=tokyonight"/>
 </p>
