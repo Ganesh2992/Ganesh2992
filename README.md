@@ -13,15 +13,15 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ganesh-mangalam-sinha-7987a6209" target="_blank">
+  <a href="https://www.linkedin.com/in/ganesh-mangalam-sinha-7987a6209" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/blindblomd/" target="_blank">
+  <a href="https://www.instagram.com/blindblomd/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:ganeshmangalamsinha@gmail.com" target="_blank">
+  <a href="mailto:ganeshmangalamsinha@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
