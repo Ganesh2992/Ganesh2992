@@ -6,7 +6,6 @@
 ## 👨‍💻 About Me
 - 🎓 B.Tech (CSIT)
 - 🌱 Currently learning **Backend Development & Cloud**
-- ☁️ AWS Certified Cloud Practitioner
 - 📫 Reach me: [ganeshmangalamsinha@gmail.com](mailto:ganeshmangalamsinha@gmail.com)
 
 <hr/>
