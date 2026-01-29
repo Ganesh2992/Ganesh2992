@@ -82,8 +82,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganesh2992&theme=tokyonight&no-frame=true&margin-w=1](https://github-profile-trophy.vercel.app/?username=Ganesh2992&theme=darkhub&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh2992&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
+
 
 <hr/>
 
