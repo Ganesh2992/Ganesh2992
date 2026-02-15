@@ -42,7 +42,9 @@
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=flat-square&logo=drizzle&logoColor=white)
+
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
