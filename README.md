@@ -67,19 +67,29 @@ tum
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 <hr/>
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ganesh2992&theme=tokyonight&hide_border=true"/>
-</p>
+## 📈 Contribution Activity
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh2992&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ganesh2992)
 
-
-<hr/>
+---
 
 ## 🏆 GitHub Trophies
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ganesh2992&theme=algolia&margin-w=20)
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh2992&theme=darkhub&no-frame=true&margin-w=15"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh2992&show_icons=true&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ganesh2992&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2992&layout=compact&theme=tokyonight"/>
+</p>
 
 <hr/>
 
