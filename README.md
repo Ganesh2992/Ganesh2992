@@ -9,7 +9,7 @@
 - 📫 Reach me: [ganeshmangalamsinha@gmail.com](mailto:ganeshmangalamsinha@gmail.com)
 
 <hr/>
-tum 
+
 ## 🔗 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ganesh-mangalam-sinha-7987a6209" target="blank" style="text-decoration:none;">
@@ -23,8 +23,7 @@ tum
   <a href="mailto:ganeshmangalamsinha@gmail.com" target="blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>rea
-
+</p>
 
 <hr/>
 
@@ -44,7 +43,6 @@ tum
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=flat-square&logo=drizzle&logoColor=white)
-
 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -67,6 +65,7 @@ tum
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 <hr/>
+
 ## 📈 Contribution Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh2992&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ganesh2992)
 
