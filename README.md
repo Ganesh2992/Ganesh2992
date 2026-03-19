@@ -66,30 +66,6 @@
 
 <hr/>
 
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ganesh2992&theme=algolia&margin-w=20)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh2992&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ganesh2992&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh2992&layout=compact&theme=tokyonight"/>
-</p>
-
-<hr/>
-
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
