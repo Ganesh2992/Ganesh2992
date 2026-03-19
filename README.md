@@ -66,8 +66,10 @@
 
 <hr/>
 
-## 📈 Contribution Activity
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganesh2992&theme=tokyo-night&bg_color=0d1117&hide_border=true)](https://github.com/ganesh2992)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh2992&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
