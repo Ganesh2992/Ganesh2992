@@ -12,15 +12,15 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/ganesh-mangalam-sinha-7987a6209" target="blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/ganesh-mangalam-sinha-7987a6209" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/blindblomd/" target="blank" style="text-decoration:none;">
+  <a href="https://www.instagram.com/blindblomd/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="mailto:ganeshmangalamsinha@gmail.com" target="blank" style="text-decoration:none;">
+  <a href="mailto:ganeshmangalamsinha@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -62,6 +62,19 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+<hr/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh2992&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh2992&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh2992&layout=compact&theme=radical" height="170"/>
+</p>
 
 <hr/>
 
