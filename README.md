@@ -70,17 +70,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ganesh2992&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganesh2992&theme=radical" height="170"/>
-  ### 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ganesh2992&theme=algolia&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganesh2992&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh2992&layout=compact&theme=radical" height="170"/>
-</p>
-
-<hr/>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
 </p>
